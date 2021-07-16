@@ -772,6 +772,7 @@ plugins:
       url: 'https://github.com/4ops/vscode-language-terraform'
       revision: v0.2.2
     extension: 'https://disaster37.github.io/vscode-plugins/4ops.terraform-0.2.2.vsix'
+  - repository:    
       url: 'https://github.com/sgwozdz/jenkinsfile-support'
       revision: '1.2.0'
     extension: 'https://disaster37.github.io/vscode-plugins/recode4dev.jenkinsfile-1.2.0.vsix'
